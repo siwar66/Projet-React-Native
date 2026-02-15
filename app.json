@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "MyRecipes",
+    "slug": "myrecipes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF5F7"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.myrecipes.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF5F7"
+      },
+      "package": "com.myrecipes.app"
+    },
+    "web": {}
+  }
+}
